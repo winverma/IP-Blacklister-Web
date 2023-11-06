@@ -37,7 +37,7 @@ Blacklist Size Limit: The program includes a maximum size limit for the blacklis
 Using a HashMap: The blacklist is implemented using a HashMap, which provides fast lookup time for IP addresses. It allows for efficient retrieval and removal of IP addresses from the blacklist.
 
 
-Differentiating Factors:
+## Differentiating Factors:
 
 Threat Severity Levels: The program defines threat severity levels based on the threat level, providing additional context to the users about the potential impact of a threat.
 Graceful Exit: The program provides an option for users to exit the program gracefully, ensuring that resources are released correctly.
