@@ -1,6 +1,6 @@
-# NetworkThreatDetector
+### NetworkThreatDetector
 
-Components of my code: 
+## Components of my code: 
 
 blacklist Map Functionality: The blacklist is a HashMap that stores IP addresses as keys and their associated dynamic threat levels as values. It keeps track of potential threats based on their threat levels.
 
@@ -21,7 +21,7 @@ isValidIPAddress(String ipAddress) Functionality: Validates if the provided inpu
 main(String[] args) Functionality: The main method contains a user-friendly menu that allows users to interact with the Network Threat Detection system. It provides options to add IP addresses with threat levels, remove IP addresses from the blacklist, check if an IP address is a threat, print the blacklist, and exit the program.
 
 
-Unique Features:
+## Unique Features:
 
 Input Validation: The program performs input validation for IP addresses and threat levels to ensure they are in the correct format and range, respectively.
 
@@ -32,7 +32,7 @@ Persistence: The program uses a shutdown hook to save the blacklist data to a fi
 Blacklist Size Limit: The program includes a maximum size limit for the blacklist, preventing new IP addresses from being added when the blacklist is full.
 
 
-Optimization Element:
+## Optimization Element:
 
 Using a HashMap: The blacklist is implemented using a HashMap, which provides fast lookup time for IP addresses. It allows for efficient retrieval and removal of IP addresses from the blacklist.
 
