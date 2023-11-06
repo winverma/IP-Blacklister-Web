@@ -1,4 +1,4 @@
-### NetworkThreatDetector
+# NetworkThreatDetector
 
 ## Components of my code: 
 
