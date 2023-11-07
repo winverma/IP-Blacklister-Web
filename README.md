@@ -1,4 +1,12 @@
 # NetworkThreatDetector
+## Sample Images:
+![Screenshot 2023-11-07 155206](https://github.com/winverma/NetworkThreatDetector/assets/82725829/27018fa4-fbc3-4bcd-b76f-af00e48c39d2)
+![Screenshot 2023-11-07 155459](https://github.com/winverma/NetworkThreatDetector/assets/82725829/d0b1ba0b-f9a7-4644-b94a-aade1a82865b)
+![Screenshot 2023-11-07 155539](https://github.com/winverma/NetworkThreatDetector/assets/82725829/c89dc971-3eb7-4ce2-a62e-b26727ba2caf)
+![Screenshot 2023-11-07 155559](https://github.com/winverma/NetworkThreatDetector/assets/82725829/63e91426-4367-44a3-acbd-5bbe6fa14c9b)
+![Screenshot 2023-11-07 155658](https://github.com/winverma/NetworkThreatDetector/assets/82725829/57703ca6-c76d-4680-8a4d-961758dc9a53)
+![Screenshot 2023-11-07 155726](https://github.com/winverma/NetworkThreatDetector/assets/82725829/f7f7d579-d3ee-4d61-8cc5-e2bde0339224)
+
 
 ## Components of my code: 
 
