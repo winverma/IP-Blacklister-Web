@@ -51,4 +51,4 @@ Using a HashMap: The blacklist is implemented using a HashMap, which provides fa
 Threat Severity Levels: The program defines threat severity levels based on the threat level, providing additional context to the users about the potential impact of a threat.
 Graceful Exit: The program provides an option for users to exit the program gracefully, ensuring that resources are released correctly.
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-pink?style=for-the-badge" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-cyan?style=for-the-badge" /></a></p>
