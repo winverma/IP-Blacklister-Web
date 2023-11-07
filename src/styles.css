@@ -1,0 +1,109 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    background-image: url('../src/bg-anim/6e3641df4d4ff70e70554064ff9739a3.gif');
+    background-size: cover;
+    backdrop-filter: blur(2px);
+}
+
+header 
+{
+    background-color: #333;
+    color: #d8ae81;
+    text-align: center;
+    padding: 3px 0;
+    font-weight: 200;
+    font-family: bahnschweiler, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header h1 
+{
+    font-size: 28px;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 100px);
+}
+
+#app {
+    background: linear-gradient(180deg, #4b006d, #00768e);
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    padding: 20px;
+    width: 90%;
+    height: 90%;
+    max-width: 800px;
+    max-height: 400px;
+    text-align: center;
+}
+
+.action-panel {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    color-interpolation-filters: linearRGB;
+    color-scheme: srgb;
+    color: rgb(249, 231, 209);
+}
+
+button {
+    background-color: #003952;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: bahnschrift, sans-serif;
+}
+
+.result-panel {
+    padding: 30px;
+    background: linear-gradient(180deg, #008059, rgb(15, 219, 12));
+    border: 3px solid rgb(0, 142, 142);
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+    font-family: Segoe UI, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#result {
+    font-size: 18px;
+    color: black;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 16px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
+/* Input Box Styles */
+.custom-threshold {
+    margin-bottom: 20px;
+
+}
+
+label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #003952;
+    font-family: 'bahnschrift', sans-serif;
+}
