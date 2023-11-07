@@ -89,7 +89,7 @@ function checkIPThreat(ipAddress) {
     const lowercaseIpAddress = ipAddress.toLowerCase();
     if (blacklist.has(lowercaseIpAddress)) {
         const threatLevel = blacklist.get(lowercaseIpAddress);
-        updateResult(`${ipAddress} is a potential threat 💀 with threat level ${threatLevel}`);
+        updateResult(`${ipAddress} is a potential threat 💀 with a cumulative threat score of ${threatLevel}`);
     } else {
         updateResult(`${ipAddress} is not a threat😇.`);
     }
