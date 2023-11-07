@@ -7,6 +7,7 @@
 ![Screenshot 2023-11-07 155658](https://github.com/winverma/NetworkThreatDetector/assets/82725829/57703ca6-c76d-4680-8a4d-961758dc9a53)
 ![Screenshot 2023-11-07 155726](https://github.com/winverma/NetworkThreatDetector/assets/82725829/f7f7d579-d3ee-4d61-8cc5-e2bde0339224)
 
+Salient Features: Animated BG & Eye catching UI.
 
 ## Components of my code: 
 
