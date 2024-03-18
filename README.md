@@ -1,4 +1,4 @@
-Note: Run using node or live server env.
+Note: Run using node or live server environment.
 # NetworkThreatDetector
 ## Sample Images:
 ![Screenshot 2023-11-07 155206](https://github.com/winverma/NetworkThreatDetector/assets/82725829/27018fa4-fbc3-4bcd-b76f-af00e48c39d2)
