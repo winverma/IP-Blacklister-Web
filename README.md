@@ -1,6 +1,6 @@
 Note: Run using node or live server environment.
 # NetworkThreatDetector
-## Sample Images:
+## Snapshots:
 ![Screenshot 2023-11-07 155206](https://github.com/winverma/NetworkThreatDetector/assets/82725829/27018fa4-fbc3-4bcd-b76f-af00e48c39d2)
 ![Screenshot 2023-11-07 155459](https://github.com/winverma/NetworkThreatDetector/assets/82725829/d0b1ba0b-f9a7-4644-b94a-aade1a82865b)
 ![Screenshot 2023-11-07 155539](https://github.com/winverma/NetworkThreatDetector/assets/82725829/c89dc971-3eb7-4ce2-a62e-b26727ba2caf)
