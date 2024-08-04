@@ -4,7 +4,7 @@ body
     background-color: #f5f5f5;
     margin: 0;
     padding: 0;
-    background-image: url('../src/bg-anim/6e3641df4d4ff70e70554064ff9739a3.gif');
+    background-image: url('/src/bg-anim/6e3641df4d4ff70e70554064ff9739a3.gif');
     background-size: cover;
     backdrop-filter: blur(2px);
 }
